@@ -1,4 +1,4 @@
-﻿# Research Validation - Ray Mercado MN RN
+# RESEARCH.APP.HOSPITAL - Ray Mercado MN RN
 
 Submit your research files for validation:
 
